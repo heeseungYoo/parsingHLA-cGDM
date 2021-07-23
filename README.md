@@ -3,7 +3,7 @@
 convert HLA report file to SQL file which has cGDM HLA-TYPE schema 
 
 ## download
-pip install -i https://test.pypi.org/simple/ parsingHLA-cGDM
+pip install -i https://test.pypi.org/simple/parsingHLA-cGDM
 
 ## command
 parsingHLA-cGDM -i INPUTDIR -o OUTPUT.sql --count identifier number
