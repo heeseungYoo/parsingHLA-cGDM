@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+src/parsingHLA_cGDM/__init__.py
+src/parsingHLA_cGDM/parsingHLA.py
+src/parsingHLA_cGDM.egg-info/PKG-INFO
+src/parsingHLA_cGDM.egg-info/SOURCES.txt
+src/parsingHLA_cGDM.egg-info/dependency_links.txt
+src/parsingHLA_cGDM.egg-info/entry_points.txt
+src/parsingHLA_cGDM.egg-info/top_level.txt

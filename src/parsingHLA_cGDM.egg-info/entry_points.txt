@@ -1,0 +1,3 @@
+[console_scripts]
+parsingHLA-cGDM = parsingHLA_cGDM.parsingHLA:__main__
+

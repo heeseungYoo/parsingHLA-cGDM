@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/package/__init__.py
+src/package/parsingHLA.py
+src/parsingHLA.egg-info/PKG-INFO
+src/parsingHLA.egg-info/SOURCES.txt
+src/parsingHLA.egg-info/dependency_links.txt
+src/parsingHLA.egg-info/top_level.txt
