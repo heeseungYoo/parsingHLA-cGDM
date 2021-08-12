@@ -8,7 +8,7 @@ def main(args):
     identifier = args.count
     fname = args.output
 
-    file_list = os.listdir(folder_name)
+    file_list = sorted(os.listdir(folder_name), key=len)
     if not fname:
         fname = "result_" + folder_name + ".sql"
     for f in file_list:
